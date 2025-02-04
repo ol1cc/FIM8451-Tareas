@@ -1,0 +1,8 @@
+# Ignore folders
+.vscode/
+
+# Ignore log files
+*.log
+
+# Ignore ds_store files
+.DS_Store
